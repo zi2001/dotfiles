@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = zh2419@ic.ac.uk
+	name = zineb hamdi
